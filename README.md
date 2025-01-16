@@ -3,22 +3,22 @@
 - Iplement a way to change the color of the text as well
 
 
--Instagram
+- Instagram
 Light and dark mode options.
 Stories for quick, fun updates.
 
--Spotify
+- Spotify
 Playlists made just for me, like “Discover Weekly.”
 Offline mode to listen without Wi-Fi.
 
--Notion
+- Notion
 Easy drag-and-drop to organize.
 Pre-made templates for faster setup.
 
--Duolingo
+- Duolingo
 Keeps track of streaks to stay motivated.
 Short, simple lessons that fit into my day.
 
--Google Maps
+- Google Maps
 Shows traffic in real-time.
 Helps find cool places nearby.
